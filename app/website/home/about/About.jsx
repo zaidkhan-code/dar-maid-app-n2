@@ -53,7 +53,6 @@ const About = () => {
           </figure> */}
         </div>
       </div>
-      {/* <!-- Image Column --> */}
     </>
   );
 };
